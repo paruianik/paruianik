@@ -59,5 +59,5 @@ I am passionate about building impactful software and solving challenging proble
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=paruianik&background=000000&hide_border=true&stroke=ffffff&ring=ff8c00&fire=ff8c00&currStreakNum=ff8c00&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
  </p>
  <p>
-   <img src = "https://github-readme-stats.vercel.app/api?username=paruianik">
+   <img src = "https://github-readme-stats.vercel.app/api?username=paruianik&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e">
  </p>
