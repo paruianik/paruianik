@@ -51,5 +51,8 @@ I am passionate about building impactful software and solving challenging proble
     <strong>Ecosystem: </strong> MacOS, Linux
   </li>
 </ul>
+
+---
+
  
  
