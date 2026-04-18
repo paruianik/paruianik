@@ -55,4 +55,4 @@ I am passionate about building impactful software and solving challenging proble
 ---
 
  <h3>My GitHub Contributions Summary</h3>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paruianik)]
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paruianik)]((https://git.io/streak-stats))
