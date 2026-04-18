@@ -40,6 +40,15 @@ I am passionate about building impactful software and solving challenging proble
 ---
 
 ### ■ Technical Skill
-<label> Libraries and Framework: </label>
+<label> <strong>Libraries and Framework: </strong></label>
+<ul>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Scikit-Learn</li>
+  <li>Tensorflow</li>
+  <li>Keras</li>
+  <li>Lnagchain</li>
+</ul>
  
  
