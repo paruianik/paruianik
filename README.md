@@ -3,6 +3,6 @@
 <p align = "center">
   M.Tech in Computer Science and Data Processing @ IIT Kharagpur
   <br>
-  C++, Python, Data Science
+  C++ || Python || Data Science
 </p>
 
