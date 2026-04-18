@@ -42,10 +42,10 @@ I am passionate about building impactful software and solving challenging proble
 ### ■ Technical Skill
 <ul>
   <li>
-    Library and Framework: Numpy, Pandas, Matplotlib, Scikit-Learn, Tensorflow, Keras
+    <strong>Library and Framework</strong>: Numpy, Pandas, Matplotlib, Scikit-Learn, Tensorflow, Keras, Langchain
   </li>  
   <li>
-    Tools and Software: VSCode, Jupiter Notebook, GitHub, Google Colab, MySQL
+    <strong>Tools and Software</strong>: VSCode, Jupiter Notebook, GitHub, Google Colab, MySQL
   </li>
 </ul>
  
