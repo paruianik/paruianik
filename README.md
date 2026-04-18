@@ -6,3 +6,6 @@
   C++ || Python || Data Science
 </p>
 
+<p align = "center">
+  <a href = "mailto:paruianik@gmail.com">e-mail</a>
+</p> 
