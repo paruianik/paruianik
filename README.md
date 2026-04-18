@@ -4,8 +4,8 @@
   M.Tech in Computer Science and Data Processing @ IIT Kharagpur
   <br>
   <a><img src = "https://img.shields.io/badge/C%2B%2B-brightgreen"></></a>
-  <a img src = "https://img.shields.io/badge/Python-blue"></a>
-  <a img src = "https://img.shields.io/badge/Data%20Science-brightgreen"></a>
+  <a><img src = "https://img.shields.io/badge/Python-blue"></></a>
+  <a><img src = "https://img.shields.io/badge/Data%20Science-brightgreen"></></a>
 </p>
 
 <p align = "center">
