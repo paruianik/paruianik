@@ -52,7 +52,7 @@ I am passionate about building impactful software and solving challenging proble
   </li>
 </ul>
 
----
+
 
  <h3 align="center">My GitHub Contributions Summary</h3>
  <p align = "center" style = "font: 24px">
