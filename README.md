@@ -6,8 +6,12 @@
   <a>
     <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   </a>
-  <a><img src = "https://img.shields.io/badge/-Python-57A143?style=flat-square&logo=python&logoColor=white"></></a>
-  <a img src = "https://img.shields.io/badge/-HTML-3776AB?style=flat-square&logo=html&logoColor=white"></a>
+  <a>
+    <img src = "https://img.shields.io/badge/-Python-57A143?style=flat-square&logo=python&logoColor=white">
+  </a>
+  <a>
+    img src = "https://img.shields.io/badge/-HTML-3776AB?style=flat-square&logo=html5&logoColor=white">
+  </a>
 </p>
 
 <p align = "center">
