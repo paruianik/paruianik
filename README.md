@@ -55,11 +55,10 @@ I am passionate about building impactful software and solving challenging proble
 ---
 
  <h3>■ My GitHub Contributions Summary</h3>
- <p>
-   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=paruianik&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362"
-     width = 500
-     style="border: 3px solid red;">
- </p>
+ <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paruianik&background=000000&hide_border=false&stroke=ff0000&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
+    width="500">
+</p>
  <p>
    <img src = "https://github-readme-stats.vercel.app/api?username=paruianik&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e"
      width = 500
