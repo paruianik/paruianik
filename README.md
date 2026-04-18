@@ -54,5 +54,6 @@ I am passionate about building impactful software and solving challenging proble
 
 ---
 
- 
+ <h3>My GitHub contributions summary</h3>
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
  
