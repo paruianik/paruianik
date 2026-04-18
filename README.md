@@ -16,8 +16,8 @@
     <img src = "https://img.shields.io/badge/-CSS-57A143?style=flat-square&logo=html5&logoColor=white"
   </a>
     <a>
-      <img src = "https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=mysql&logoColor=white"
-  </a>>
+      <img src = "https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=mysql&logoColor=white">
+  </a>
     </a>
 </p>
 
