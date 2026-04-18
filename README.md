@@ -13,4 +13,4 @@
 
 ---
 ### ■ About
-Final year M.Tech student in **Computer Science and Data Processing** at **IIT Kharagpur** with string foundation in Physics, machine learning and core CS fundamental
+Final year M.Tech student in **Computer Science and Data Processing** at **IIT Kharagpur** with string foundation in Physics, machine learning and core CS fundamentals. I am passionate about building impactful software and solving challenging problems. 
