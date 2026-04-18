@@ -45,7 +45,10 @@ I am passionate about building impactful software and solving challenging proble
     <strong>Libraries and Framework: </strong> Numpy, Pandas, Matplotlib, Scikit-Learn, Seaborn, Tensorflow, Keras, Langchain 
   </li>
   <li>
-    <strong>Tools and Software: </strong> VSCode, Jupiter Notebook, GitHub, Google Colab, MySQL
+    <strong>Tools and Software: </strong> VSCode, Jupiter Notebook, GitHub, Google Colab, MySQL, Git
+  </li>
+  <li>
+    <strong>Ecosystem: </strong> MacOS, Linux
   </li>
 </ul>
  
