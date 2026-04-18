@@ -55,5 +55,4 @@ I am passionate about building impactful software and solving challenging proble
 ---
 
  <h3>My GitHub contributions summary</h3>
-![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=paruianik&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
- 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=paruianik&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&hide_border=true)
