@@ -7,16 +7,23 @@
     <img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   </a>
   <a>
-    <img src = "https://img.shields.io/badge/-Python-57A143?style=flat-square&logo=python&logoColor=white">
+    <img src = "https://img.shields.io/badge/-Python-lightgreen?style=flat-square&logo=python&logoColor=white">
   </a>
   <a>
     <img src = "https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white">
   </a>
+  <a>
+    <img src = "https://img.shields.io/badge/-CSS-lightgreen?style=flat-square&logo=html5&logoColor=white"
+  </a>
 </p>
 
 <p align = "center">
-  <a href = "mailto:paruianik@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-  <a href = "www.linkedin.com/in/paruianik"><img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href = "mailto:paruianik@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href = "www.linkedin.com/in/paruianik">
+    <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+  </a>
 </p> 
 
 ---
