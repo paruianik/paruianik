@@ -56,5 +56,5 @@ I am passionate about building impactful software and solving challenging proble
 
  <h3 align="center">My GitHub Contributions Summary</h3>
  <p>
-   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=paruianik">
+   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=paruianik&theme=tokyonight&hide_border=true"">
  </p>
