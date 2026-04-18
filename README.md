@@ -41,7 +41,7 @@ I am passionate about building impactful software and solving challenging proble
 
 ### ■ Technical Skill
 <ul>
-  <li></li><strong>Libraries and Framework: </strong> Numpy, Pandas, Matplotlib, Scikit-Learn, Seaborn, Tensorflow, Keras, Langchain </li>
+  <li><strong>Libraries and Framework: </strong> Numpy, Pandas, Matplotlib, Scikit-Learn, Seaborn, Tensorflow, Keras, Langchain </li>
 </ul>
  
  
