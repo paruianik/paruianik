@@ -13,4 +13,4 @@
 
 ---
 ### ■ About
-Final year M.Tech student in **Computer Science and Data Processing** at **IIT Kharagpur** with string foundation in Physics, machine learning and core CS fundamentals. I am passionate about building impactful software and solving challenging problems. 
+Final year M.Tech student in **Computer Science and Data Processing** at **IIT Kharagpur** with string foundation in Physics, machine learning and core CS fundamentals. My work mostly involves deep learning, NLP, and apllied AI systems, where I focuses into building, practical and scalable systems. I am passionate about building impactful software and solving challenging problems. 
