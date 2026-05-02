@@ -59,7 +59,6 @@ I am passionate about building impactful software and solving challenging proble
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=paruianik&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true"
      width = 500> 
  </p>
- <p>
 ```md
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ```
