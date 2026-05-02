@@ -60,4 +60,4 @@ I am passionate about building impactful software and solving challenging proble
      width = 500> 
  </p>
 
- ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&bg_color=00000000)
+ ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=paruianik&show_icons=true&bg_color=00000000)
