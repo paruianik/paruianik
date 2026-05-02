@@ -60,10 +60,8 @@ I am passionate about building impactful software and solving challenging proble
      width = 500> 
  </p>
 
- ![Anik's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=paruianik&show_icons=true&theme=radical&hide_border=true)
+<p>
+  <img src = "https://github-readme-stats-fast.vercel.app/api?username=paruianik&show_icons=true&theme=radical&hide_border=true">
+</p>
 
- <h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/paruianik/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
-</h2>
+
