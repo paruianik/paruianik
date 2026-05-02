@@ -60,7 +60,6 @@ I am passionate about building impactful software and solving challenging proble
      width = 500> 
  </p>
  <p>
-   <img src = "https://github-readme-stats.vercel.app/api?username=paruianik&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e"
-     width = 500
-     style="border: 3px solid red;">
- </p>
+```md
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+```
