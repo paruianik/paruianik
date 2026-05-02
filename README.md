@@ -60,4 +60,4 @@ I am passionate about building impactful software and solving challenging proble
      width = 500> 
  </p>
 
- ![Anik's GitHub stats](![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=paruianik&show_icons=true&theme=radical&hide_border=true)
+ ![Anik's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=paruianik&show_icons=true&theme=radical&hide_border=true)
