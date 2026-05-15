@@ -22,13 +22,13 @@
 </p>
 
 <p align = "center">
-  <a href = "mailto:paruianik@gmail.com" style="text-decoration:none;>
+  <a href = "mailto:paruianik@gmail.com" style="text-decoration:none;">
     <img src = "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href = "https://www.linkedin.com/in/paruianik" style="text-decoration:none;>
+  <a href = "https://www.linkedin.com/in/paruianik" style="text-decoration:none;">
     <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a>
-  <a href = "https://paruianik.github.io/" style="text-decoration:none;>
+  <a href = "https://paruianik.github.io/" style="text-decoration:none;">
     <img src = "https://custom-icon-badges.demolab.com/badge/Portfolio-28A745?logo=portfolio-white&logoColor=white"/>
   </a>
 </p> 
