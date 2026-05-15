@@ -48,7 +48,7 @@ I am passionate about building impactful software and solving challenging proble
     <strong>Tools and Software: </strong> VSCode, Jupiter Notebook, GitHub, Google Colab, MySQL, Git
   </li>
   <li>
-    <strong>Ecosystem: </strong> MacOS, Linux
+    <strong>Ecosystem: </strong> MacOS, Linux, Windows
   </li>
 </ul>
 
