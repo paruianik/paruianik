@@ -21,15 +21,13 @@
     </a>
 </p>
 
-<p align = "center">
-  <a href = "mailto:paruianik@gmail.com" style="text-decoration:none;">
-    <img src = "https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-  </a>
-  <a href = "https://www.linkedin.com/in/paruianik" style="text-decoration:none;">
-    <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-  </a>
-  <a href = "https://paruianik.github.io/" style="text-decoration:none;">
-    <img src = "https://custom-icon-badges.demolab.com/badge/Portfolio-28A745?logo=portfolio-white&logoColor=white"/>
+<p align="center">
+  <a href="mailto:paruianik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" style="vertical-align:middle;">
+  </a><a href="https://www.linkedin.com/in/paruianik">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="vertical-align:middle;">
+  </a><a href="https://paruianik.github.io/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-28A745?logo=portfolio-white&logoColor=white" style="vertical-align:middle;">
   </a>
 </p>
 
