@@ -28,6 +28,9 @@
   <a href = "www.linkedin.com/in/paruianik">
     <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a>
+  <a href = "https://paruianik.github.io/">
+    <img src = "https://custom-icon-badges.demolab.com/badge/Portfolio-28A745?logo=portfolio-white&logoColor=white"/>
+  </a>
 </p> 
 
 ---
